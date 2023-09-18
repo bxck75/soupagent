@@ -6,11 +6,11 @@
 [Superagent.sh](https://Superagent.sh)
 
 <p>
-<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/homanp/Superagent" />
-<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/homanp/Superagent" />
-<img alt="" src="https://img.shields.io/github/repo-size/homanp/Superagent" />
-<img alt="GitHub Issues" src="https://img.shields.io/github/issues/homanp/Superagent" />
-<img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/homanp/Superagent" />
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/bxck75/Superagent" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/bxck75/Superagent" />
+<img alt="" src="https://img.shields.io/github/repo-size/bxck75/Superagent" />
+<img alt="GitHub Issues" src="https://img.shields.io/github/issues/bxck75/Superagent" />
+<img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/bxck75/Superagent" />
 <img alt="Github License" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
 <img alt="Discord" src="https://img.shields.io/discord/1110910277110743103?label=Discord&logo=discord&logoColor=white&style=plastic&color=d7b023)](https://discord.gg/e8j7mgjDUK" />
 </p>
@@ -35,7 +35,7 @@ Checkout the [full documentation here](https://docs.Superagent.sh/).
 
 ## 🚧 Roadmap
 
-You can follow the [roadmap here](https://github.com/users/homanp/projects/4)
+You can follow the [roadmap here](https://github.com/users/bxck75/projects/4)
 
 ## 🎥 Tutorials
 
@@ -45,10 +45,10 @@ We post tutorials regularly on our [Youtube channel](https://www.youtube.com/cha
 
 To get started with Superagent, follow these steps:
 
-1. Clone the Superagent repository into a public GitHub repository or fork it from [https://github.com/homanp/Superagent/fork](https://github.com/homanp/Superagent/fork). If you plan to distribute the code, keep the source code public.
+1. Clone the Superagent repository into a public GitHub repository or fork it from [https://github.com/bxck75/Superagent/fork](https://github.com/bxck75/Superagent/fork). If you plan to distribute the code, keep the source code public.
 
    ```sh
-   git clone https://github.com/homanp/Superagent.git
+   git clone https://github.com/bxck75/Superagent.git
    ```
 
 2. To run the script, simply execute it using:
@@ -123,17 +123,17 @@ To run this project, you will need to add the following environment variables to
 
 ## 💡 Examples
 
-- Running Superagent with [NextJS](https://github.com/homanp/nextjs-Superagent)
+- Running Superagent with [NextJS](https://github.com/bxck75/nextjs-Superagent)
 
 ## 👨🏽‍💻 SDKs
 
-- [Javascript](https://github.com/homanp/superagent-js)
-- [Python](https://github.com/homanp/superagent-py)
+- [Javascript](https://github.com/bxck75/superagent-js)
+- [Python](https://github.com/bxck75/superagent-py)
 - [Swift](https://github.com/simonweniger/superagent-swift) (community)
 
 ## 🫶 Contributions
 
-Superagent is an open-source project, and contributions are welcome. If you would like to contribute, you can create new features, fix bugs, or improve the infrastructure. Please refer to the [CONTRIBUTING.md](https://github.com/homanp/Superagent/blob/main/.github/CONTRIBUTING.md) file in the repository for more information on how to contribute.
+Superagent is an open-source project, and contributions are welcome. If you would like to contribute, you can create new features, fix bugs, or improve the infrastructure. Please refer to the [CONTRIBUTING.md](https://github.com/bxck75/Superagent/blob/main/.github/CONTRIBUTING.md) file in the repository for more information on how to contribute.
 
 We appreciate your contributions and aim to make it easy for anyone to create and run LLM Agents in production using Superagent.
 
